@@ -7,6 +7,7 @@ Folge den Schritten um `antiafk.py` erfolgreich zu benutzen:
  - Add Python to PATH -> Hacken
 
 ![Python Installer Bild](./bilder/installer.png)
+
 3. Öffne die Eingabeaufforderung *(CMD)* (Du musst "Add Python to PATH" aktiviert haben):
  - Führe den Befehl `pip` aus, es sollte eine lange Liste an Funtionen kommen
   - Führe jetzt, wenn kein Fehler kam, diesen Befehl aus:
